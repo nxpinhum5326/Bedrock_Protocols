@@ -3,6 +3,7 @@ Minecraft: Bedrock Edition Protocol Versions
 
 | Bedrock   |      Protocol      |  PM |
 |----------|:-------------:|------:|
+| 1.21.2 |  686 | ? |
 | 1.20.50 |  630 | 5.x & 4.x & idk |
 | 1.20.40-41 |  622 | 5.x & 4.x & idk |
 | 1.20.30-32 |  618 | 5.x & 4.x & idk |
